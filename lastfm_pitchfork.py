@@ -1,5 +1,5 @@
 #script to add genre, playcount, listener count, album duration, and number of songs information from lastfm
-#to all album reviews scraped from pitchfork before the site's redesign
+#to all album reviews scraped from pitchfork
 
 import requests
 import json
